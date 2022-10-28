@@ -1,0 +1,24 @@
+Topic Relevance
+- use LSA (Bag of Words, TF-IDF) sklearn
+- TF-IDF to TruncatedSVD
+- cosine similarity between TruncatedSVD
+
+Word Usage and Sentence complexity
+- number of words, sentences, unique words, average word length
+
+Grammar and Mechanics
+- Language Tool (number of mistakes)
+
+Features:
+- Topic Relevance
+    - Truncated TF-IDF Matrix
+    - LSA Score(Similarity)
+
+- Word Usage and Sentence complexity
+    - Number of Words
+    - Number of Sentences
+    - Number of Unique Words
+    - Average Word Length
+
+- Grammar and Mechanics
+    - Number of Mistakes(Spelling errors, Grammatical errors, etc.)
